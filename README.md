@@ -1,0 +1,1 @@
+# Mybb-Hide-the-Signature-Plugin

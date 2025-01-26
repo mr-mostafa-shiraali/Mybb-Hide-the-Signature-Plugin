@@ -27,4 +27,4 @@ Two simple condition :
 * you can Select user groups whose signatures cannot be hidden.
 * you can enter the id of posts you want the hidethe signature to be inactive on it
 
-   ## More details : [Hide the Signature Plugin](https://community.mybb.com/thread-237080.html)
+## More details : [Hide the Signature Plugin](https://community.mybb.com/thread-237080.html)
